@@ -1,2 +1,41 @@
-# FOODIE-PAL
-FoodiePal is a user-friendly food delivery app that connects users with a wide variety of restaurants and eateries. With a seamless interface, customers can easily browse through menus, place orders, and track deliveries in real-time. The app also offers secure payment options and personalized recommendations to enhance the overall user experience.
+## Food Ordering App
+
+### Features:
+
+---
+
+##### Here's features included in this project
+
+- Add to cart functionality
+- Shopping cart functionality
+- Product Filtering functionality
+- Product page
+- Cart and checkout page
+- Contact page
+- Awesome modern minimalist UI
+
+### Technologies Used:
+
+---
+
+1. React.js
+2. Redux Toolkit
+3. ReactStrap
+4. CSS
+
+### How to start?
+
+---
+
+##### To start the project along with me just download the start-up file and run available script
+
+```javascript
+// first install all necessary dependencies
+
+npm i
+
+// next run
+
+npm start
+
+```
